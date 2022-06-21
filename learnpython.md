@@ -6,7 +6,9 @@ Python é uma linguagem de programação simples, de alto nível(longe do códig
 Alguns comandos basicos do Python, que não necessita de importação de outras bibliotecas, são chamados de Built-in, eles são:
 
 print() - Imprime o que esta entre parênteses na tela.
+
 input() - Captura o que o usuário digitar na tela.
+
 type() - Mostra o tipo do dado armazenado.
 
 Entre outras.
