@@ -23,3 +23,7 @@ Um número inteiro, que não possue ponto flutuante é uma variável **int**.
 
 #### Flutuantes
 Números com ponto flutuante, são variáveis **float**.
+
+### Caracteres
+
+Uma cadeia de caracteres é uma variável do tipo **string**.
